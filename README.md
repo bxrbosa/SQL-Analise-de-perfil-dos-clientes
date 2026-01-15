@@ -1,11 +1,12 @@
 # SQL - Analise de perfil dos clientes
-Projeto de Análise de Dados com SQL
+Projeto – Análise de Clientes
+📊 Descrição
 
-Este repositório contém projetos desenvolvidos durante um curso 100% prático de Análise de Dados com SQL, com foco na resolução de problemas reais de negócio por meio de consultas eficientes em banco de dados.
+Projeto de análise de clientes utilizando SQL, com foco em entender o perfil, o comportamento e os padrões de consumo dos clientes a partir de dados armazenados em banco de dados.
 
-📊 Objetivo do Projeto
+🎯 Objetivo
 
-Aplicar a linguagem SQL para consultar, tratar e analisar dados, gerando insights relevantes que apoiem a tomada de decisão em contextos de negócios.
+Extrair insights sobre os clientes para apoiar estratégias comerciais, segmentação e tomada de decisão baseada em dados.
 
 🛠️ Tecnologias Utilizadas
 
@@ -15,42 +16,22 @@ pgAdmin
 
 SQL
 
-Obs: A lógica e a sintaxe utilizadas são aplicáveis também a MySQL, SQL Server, Oracle SQL, Amazon Redshift, entre outros.
+📌 Atividades Desenvolvidas
 
-📌 O que foi desenvolvido
-
-Consultas SQL do básico ao avançado
-
-Criação e manipulação de tabelas
+Análise e relacionamento entre tabelas
 
 Limpeza e tratamento de dados
 
-Análises agregadas para responder perguntas de negócio
+Consultas SQL para identificação de padrões de clientes
 
-Uso de boas práticas para melhorar desempenho das queries
+Análises agregadas para segmentação
 
-Projetos completos de análise de dados do início ao fim
+Apoio à tomada de decisão de negócio
 
-🧠 Conceitos Trabalhados
+🧠 Principais Aprendizados
 
-Sintaxe básica do SQL
+Análise de dados aplicada a clientes
 
-Filtragem de dados
+Uso do SQL para responder perguntas reais de negócio
 
-Relacionamento entre tabelas
-
-Subqueries
-
-Análise de dados aplicada ao negócio
-
-📁 Estrutura do Repositório
-
-/queries → consultas SQL desenvolvidas
-
-/projetos → projetos completos de análise
-
-/dados → dados de exemplo (quando aplicável)
-
-🎯 Aprendizados
-
-Este projeto reforçou habilidades em análise de dados, pensamento analítico e uso do SQL em situações reais, simulando demandas comuns do ambiente corporativo.
+Interpretação de dados para geração de insights
