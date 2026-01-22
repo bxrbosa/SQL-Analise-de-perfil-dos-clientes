@@ -36,7 +36,7 @@ Uso do SQL para responder perguntas reais de negócio
 
 Interpretação de dados para geração de insights
 
-Aqui esta um dos dashboards que foi criado a partir dos dados adiquirido pelas atividades realizadas
+Aqui esta um dashboard criado a partir dos dados adiquirido pelas atividades realizadas
 <img width="1348" height="769" alt="image" src="https://github.com/user-attachments/assets/256735c4-b561-432f-9c25-45d31e8ef36c" />
 
 
